@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jTar.iml" filepath="$PROJECT_DIR$/.idea/modules/jTar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtar/jtar.iml" filepath="$PROJECT_DIR$/.idea/modules/jtar/jtar.iml" />
+    </modules>
+  </component>
+</project>
