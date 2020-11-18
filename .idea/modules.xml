@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/jTar.iml" filepath="$PROJECT_DIR$/jTar.iml" group="jTar" />
-      <module fileurl="file://$PROJECT_DIR$/jtar/jtar.iml" filepath="$PROJECT_DIR$/jtar/jtar.iml" group="jTar/jtar" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jTar.iml" filepath="$PROJECT_DIR$/.idea/modules/jTar.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/jtar/jTar.jtar.iml" filepath="$PROJECT_DIR$/.idea/modules/jtar/jTar.jtar.iml" />
     </modules>
   </component>
 </project>

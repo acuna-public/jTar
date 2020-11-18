@@ -2,6 +2,6 @@
 
   apply from: 'https://raw.githubusercontent.com/acuna-public/MavenUpload/master/bintray.gradle'
   apply from: 'https://raw.githubusercontent.com/acuna-public/MavenUpload/master/publish.gradle'
-  
+	
   sourceCompatibility = '1.7'
   version = '1.0'
